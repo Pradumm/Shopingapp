@@ -1,0 +1,25 @@
+.navbar-brand {
+    color: rgb(239, 242, 245) !important;
+}
+
+.store {
+    color: cyan
+}
+
+.nav-link {
+    color: rgb(235, 245, 235) !important;
+    font-size: 16px !important;
+    margin-left: 15px !important;
+    font-family: 'Cinzel Decorative', cursive;
+    padding-top: 0px !important;
+}
+.nav-link:hover{
+    color: black !important;
+}
+
+.cart_btn {
+    color: rgb(235, 245, 235) !important;
+    font-size: 16px !important;
+    margin-left: 15px !important;
+    font-family: 'Cinzel Decorative', cursive;
+}
